@@ -1,5 +1,5 @@
 [dev]
-dveserver
+devserver
 [uat]
 [pre-prod]
 [prod]
